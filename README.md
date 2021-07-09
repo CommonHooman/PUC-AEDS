@@ -14,3 +14,5 @@ Os propósitos deste repositório são:
 - Tive a ideia de criar este repositório apenas nas últimas semanas do período, portanto não pude (não animei) documentar as primeiras 9 listas dadas em AEDS1. Por isso a primeira lista armazenada na pasta de `AEDS_1` é a lista 10.
 
 - Eu adoraria adicionar as listas passadas pelo professor como forma de saber o enunciado dos exercícios armazenados, contudo, por algum motivo o GitHub não tá conseguindo renderizar os arquivos `.pdf` corretamente (renderiza apenas o canvas, uma tela branca), além disso o GitHub não renderiza arquivos `.docx`, sendo assim, eu vou ir colocando os enunciados como comentários no início de cada programa (apenas a partir de AEDS 2, sry) e todos exercícios que pedirem uma resposta por extenso eu vou fazer um MarkDown (`.md`) com a resposta.
+
+- Os `.pdf` não estão sendo renderizados **mas** se você baixar eles dá visualizar direitinho.
