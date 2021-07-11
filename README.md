@@ -15,4 +15,6 @@ Os propósitos deste repositório são:
 
 - Eu adoraria adicionar as listas passadas pelo professor como forma de saber o enunciado dos exercícios armazenados, contudo, por algum motivo o GitHub não tá conseguindo renderizar os arquivos `.pdf` corretamente (renderiza apenas o canvas, uma tela branca), além disso o GitHub não renderiza arquivos `.docx`, sendo assim, eu vou ir colocando os enunciados como comentários no início de cada programa (apenas a partir de AEDS 2, sry) e todos exercícios que pedirem uma resposta por extenso eu vou fazer um MarkDown (`.md`) com a resposta.
 
-- Os `.pdf` não estão sendo renderizados pelo GitHub, **mas** baixando eles dá pra visualizar direitinho.
+- Os `.pdf` não estão sendo renderizados pelo GitHub, **mas:** 
+  - Baixando dá pra visualizar direitinho
+  - A extensão de visualização de `.pdf` no VS Code [`vscode-pdf`](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) funciona perfeitamente, e fica especialmente mais prático quando pareada com a [`Remote Repositories`](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
